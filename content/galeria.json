@@ -2123,26 +2123,6 @@
       ]
     },
     {
-      "titulo": "Escudos",
-      "slug": "escudos",
-      "categoria": "escudos",
-      "descripcion": "2 fotos",
-      "items": [
-        {
-          "titulo": "Escudos",
-          "imagen": "assets/images/galeria/escudos/escudos-001.webp",
-          "descripcion": "Escudos",
-          "destacada": true
-        },
-        {
-          "titulo": "Escudos",
-          "imagen": "assets/images/galeria/escudos/escudos-002.webp",
-          "descripcion": "Escudos",
-          "destacada": false
-        }
-      ]
-    },
-    {
       "titulo": "I Dia de Wushu Navarra",
       "slug": "i-dia-de-wushu-navarra",
       "categoria": "eventos",
@@ -2846,12 +2826,6 @@
       "descripcion": "Equipo - Airen",
       "destacada": true,
       "subgrupo": "Airen"
-    },
-    {
-      "titulo": "Escudos",
-      "imagen": "assets/images/galeria/escudos/escudos-001.webp",
-      "descripcion": "Escudos",
-      "destacada": true
     },
     {
       "titulo": "I Dia de Wushu Navarra",
