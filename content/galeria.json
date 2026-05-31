@@ -1,53 +1,2875 @@
 {
+  "sections": [
+    {
+      "titulo": "Campeonato Wushu Ardoi 2025",
+      "slug": "campeonato-wushu-ardoi-2025",
+      "categoria": "competicion",
+      "descripcion": "22 fotos",
+      "items": [
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-001.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": true
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-002.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-003.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-004.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-005.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-006.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-007.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-008.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-009.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-010.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-011.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-012.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-013.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-014.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-015.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-016.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-017.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-018.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-019.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-020.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-021.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Campeonato Wushu Ardoi 2025",
+          "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-022.webp",
+          "descripcion": "Campeonato Wushu Ardoi 2025",
+          "destacada": false
+        }
+      ]
+    },
+    {
+      "titulo": "Curso Defensa Personal",
+      "slug": "curso-defensa-personal",
+      "categoria": "eventos",
+      "descripcion": "14 fotos",
+      "items": [
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-001.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": true
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-002.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-003.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-004.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-005.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-006.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-007.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-008.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-009.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-010.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-011.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-012.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-013.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        },
+        {
+          "titulo": "Curso Defensa Personal",
+          "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-014.webp",
+          "descripcion": "Curso Defensa Personal",
+          "destacada": false
+        }
+      ]
+    },
+    {
+      "titulo": "Entrenamiento",
+      "slug": "entrenamiento",
+      "categoria": "entrenamiento",
+      "descripcion": "23 fotos",
+      "items": [
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-001.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": true
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-002.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-003.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-004.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-005.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-006.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-007.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-008.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-009.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-010.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-011.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-012.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-013.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-014.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-015.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-016.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-017.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-018.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-019.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-020.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-021.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-022.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        },
+        {
+          "titulo": "Entrenamiento",
+          "imagen": "assets/images/galeria/entrenamiento/entrenamiento-023.webp",
+          "descripcion": "Entrenamiento",
+          "destacada": false
+        }
+      ]
+    },
+    {
+      "titulo": "Equipo",
+      "slug": "equipo",
+      "categoria": "equipo",
+      "descripcion": "251 fotos",
+      "items": [
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-001.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": true,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-002.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-003.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-004.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-005.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-006.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-007.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-008.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-009.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-010.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-011.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-012.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-013.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-014.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-015.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-016.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-017.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-018.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-019.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-020.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-021.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Airen",
+          "imagen": "assets/images/galeria/equipo/equipo-022.webp",
+          "descripcion": "Equipo - Airen",
+          "destacada": false,
+          "subgrupo": "Airen"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-023.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-024.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-025.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-026.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-027.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-028.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-029.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-030.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-031.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-032.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-033.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-034.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-035.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-036.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-037.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-038.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-039.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-040.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-041.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Amara",
+          "imagen": "assets/images/galeria/equipo/equipo-042.webp",
+          "descripcion": "Equipo - Amara",
+          "destacada": false,
+          "subgrupo": "Amara"
+        },
+        {
+          "titulo": "Carol",
+          "imagen": "assets/images/galeria/equipo/equipo-043.webp",
+          "descripcion": "Equipo - Carol",
+          "destacada": false,
+          "subgrupo": "Carol"
+        },
+        {
+          "titulo": "Carol",
+          "imagen": "assets/images/galeria/equipo/equipo-044.webp",
+          "descripcion": "Equipo - Carol",
+          "destacada": false,
+          "subgrupo": "Carol"
+        },
+        {
+          "titulo": "Carol",
+          "imagen": "assets/images/galeria/equipo/equipo-045.webp",
+          "descripcion": "Equipo - Carol",
+          "destacada": false,
+          "subgrupo": "Carol"
+        },
+        {
+          "titulo": "Carol",
+          "imagen": "assets/images/galeria/equipo/equipo-046.webp",
+          "descripcion": "Equipo - Carol",
+          "destacada": false,
+          "subgrupo": "Carol"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-047.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-048.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-049.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-050.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-051.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-052.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-053.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-054.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-055.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Ekaitz",
+          "imagen": "assets/images/galeria/equipo/equipo-056.webp",
+          "descripcion": "Equipo - Ekaitz",
+          "destacada": false,
+          "subgrupo": "Ekaitz"
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-057.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-058.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-059.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-060.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-061.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-062.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-063.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-064.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-065.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-066.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-067.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-068.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-069.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-070.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-071.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-072.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-073.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-074.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-075.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-076.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-077.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-078.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-079.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-080.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-081.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-082.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-083.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-084.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-085.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-086.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-087.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-088.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-089.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-090.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-091.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-092.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-093.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-094.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-095.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Irati",
+          "imagen": "assets/images/galeria/equipo/equipo-096.webp",
+          "descripcion": "Equipo - Irati",
+          "destacada": false,
+          "subgrupo": "Irati"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-097.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-098.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-099.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-100.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-101.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-102.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-103.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-104.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-105.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-106.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-107.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-108.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-109.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-110.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-111.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-112.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-113.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Johannes",
+          "imagen": "assets/images/galeria/equipo/equipo-114.webp",
+          "descripcion": "Equipo - Johannes",
+          "destacada": false,
+          "subgrupo": "Johannes"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-115.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-116.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-117.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-118.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-119.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-120.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-121.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-122.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-123.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-124.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-125.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-126.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-127.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-128.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-129.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-130.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-131.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-132.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-133.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-134.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-135.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-136.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-137.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-138.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-139.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-140.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-141.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-142.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-143.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-144.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-145.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-146.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-147.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-148.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-149.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-150.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-151.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-152.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Lola",
+          "imagen": "assets/images/galeria/equipo/equipo-153.webp",
+          "descripcion": "Equipo - Lola",
+          "destacada": false,
+          "subgrupo": "Lola"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-154.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-155.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-156.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-157.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-158.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-159.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-160.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Luan",
+          "imagen": "assets/images/galeria/equipo/equipo-161.webp",
+          "descripcion": "Equipo - Luan",
+          "destacada": false,
+          "subgrupo": "Luan"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-162.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-163.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-164.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-165.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-166.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-167.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-168.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-169.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-170.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-171.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-172.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-173.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-174.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-175.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-176.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-177.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-178.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-179.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-180.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-181.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-182.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Mario",
+          "imagen": "assets/images/galeria/equipo/equipo-183.webp",
+          "descripcion": "Equipo - Mario",
+          "destacada": false,
+          "subgrupo": "Mario"
+        },
+        {
+          "titulo": "Matias",
+          "imagen": "assets/images/galeria/equipo/equipo-184.webp",
+          "descripcion": "Equipo - Matias",
+          "destacada": false,
+          "subgrupo": "Matias"
+        },
+        {
+          "titulo": "Matias",
+          "imagen": "assets/images/galeria/equipo/equipo-185.webp",
+          "descripcion": "Equipo - Matias",
+          "destacada": false,
+          "subgrupo": "Matias"
+        },
+        {
+          "titulo": "Matias",
+          "imagen": "assets/images/galeria/equipo/equipo-186.webp",
+          "descripcion": "Equipo - Matias",
+          "destacada": false,
+          "subgrupo": "Matias"
+        },
+        {
+          "titulo": "Matias",
+          "imagen": "assets/images/galeria/equipo/equipo-187.webp",
+          "descripcion": "Equipo - Matias",
+          "destacada": false,
+          "subgrupo": "Matias"
+        },
+        {
+          "titulo": "Matias",
+          "imagen": "assets/images/galeria/equipo/equipo-188.webp",
+          "descripcion": "Equipo - Matias",
+          "destacada": false,
+          "subgrupo": "Matias"
+        },
+        {
+          "titulo": "Matias",
+          "imagen": "assets/images/galeria/equipo/equipo-189.webp",
+          "descripcion": "Equipo - Matias",
+          "destacada": false,
+          "subgrupo": "Matias"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-190.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-191.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-192.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-193.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-194.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-195.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-196.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-197.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-198.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-199.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-200.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-201.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-202.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-203.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-204.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-205.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-206.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-207.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-208.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-209.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-210.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rafa",
+          "imagen": "assets/images/galeria/equipo/equipo-211.webp",
+          "descripcion": "Equipo - Rafa",
+          "destacada": false,
+          "subgrupo": "Rafa"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-212.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-213.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-214.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-215.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-216.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-217.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-218.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-219.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-220.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-221.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-222.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-223.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-224.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-225.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-226.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-227.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-228.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-229.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-230.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-231.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Rui",
+          "imagen": "assets/images/galeria/equipo/equipo-232.webp",
+          "descripcion": "Equipo - Rui",
+          "destacada": false,
+          "subgrupo": "Rui"
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-233.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-234.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-235.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-236.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Equipo",
+          "imagen": "assets/images/galeria/equipo/equipo-237.webp",
+          "descripcion": "Equipo",
+          "destacada": false
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-238.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-239.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-240.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-241.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-242.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-243.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-244.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-245.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-246.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-247.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-248.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-249.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-250.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        },
+        {
+          "titulo": "Shifu",
+          "imagen": "assets/images/galeria/equipo/equipo-251.webp",
+          "descripcion": "Equipo - Shifu",
+          "destacada": false,
+          "subgrupo": "Shifu"
+        }
+      ]
+    },
+    {
+      "titulo": "Escudos",
+      "slug": "escudos",
+      "categoria": "escudos",
+      "descripcion": "2 fotos",
+      "items": [
+        {
+          "titulo": "Escudos",
+          "imagen": "assets/images/galeria/escudos/escudos-001.webp",
+          "descripcion": "Escudos",
+          "destacada": true
+        },
+        {
+          "titulo": "Escudos",
+          "imagen": "assets/images/galeria/escudos/escudos-002.webp",
+          "descripcion": "Escudos",
+          "destacada": false
+        }
+      ]
+    },
+    {
+      "titulo": "I Dia de Wushu Navarra",
+      "slug": "i-dia-de-wushu-navarra",
+      "categoria": "eventos",
+      "descripcion": "14 fotos",
+      "items": [
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-001.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": true
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-002.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-003.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-004.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-005.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-006.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-007.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-008.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-009.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-010.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-011.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-012.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-013.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "I Dia de Wushu Navarra",
+          "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-014.webp",
+          "descripcion": "I Dia de Wushu Navarra",
+          "destacada": false
+        }
+      ]
+    },
+    {
+      "titulo": "II Dia Wushu Navarra",
+      "slug": "ii-dia-wushu-navarra",
+      "categoria": "eventos",
+      "descripcion": "72 fotos",
+      "items": [
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-001.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": true
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-002.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-003.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-004.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-005.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-006.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-007.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-008.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-009.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-010.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-011.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-012.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-013.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-014.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-015.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-016.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-017.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-018.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-019.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-020.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-021.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-022.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-023.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-024.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-025.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-026.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-027.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-028.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-029.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-030.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-031.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-032.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-033.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-034.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-035.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-036.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-037.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-038.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-039.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-040.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-041.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-042.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-043.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-044.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-045.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-046.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-047.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-048.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-049.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-050.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-051.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-052.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-053.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-054.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-055.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-056.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-057.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-058.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-059.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-060.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-061.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-062.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-063.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-064.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-065.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-066.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-067.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-068.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-069.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-070.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-071.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        },
+        {
+          "titulo": "II Dia Wushu Navarra",
+          "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-072.webp",
+          "descripcion": "II Dia Wushu Navarra",
+          "destacada": false
+        }
+      ]
+    },
+    {
+      "titulo": "Navidades 2025",
+      "slug": "navidades-2025",
+      "categoria": "eventos",
+      "descripcion": "23 fotos",
+      "items": [
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-001.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": true
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-002.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-003.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-004.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-005.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-006.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-007.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-008.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-009.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-010.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-011.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-012.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-013.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-014.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-015.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-016.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-017.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-018.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-019.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-020.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-021.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-022.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        },
+        {
+          "titulo": "Navidades 2025",
+          "imagen": "assets/images/galeria/navidades-2025/navidades-2025-023.webp",
+          "descripcion": "Navidades 2025",
+          "destacada": false
+        }
+      ]
+    }
+  ],
   "items": [
     {
-      "titulo": "VII Torneo Wushu Ardoi",
-      "categoria": "competicion",
-      "imagen": "",
-      "descripcion": "VII Torneo Wushu Ardoi — Zizur Mayor",
+      "titulo": "Campeonato Wushu Ardoi 2025",
+      "imagen": "assets/images/galeria/campeonato-wushu-ardoi-2025/campeonato-wushu-ardoi-2025-001.webp",
+      "descripcion": "Campeonato Wushu Ardoi 2025",
       "destacada": true
     },
     {
-      "titulo": "Entrenamiento Taolu",
-      "categoria": "entrenamiento",
-      "imagen": "",
-      "descripcion": "Sesión de entrenamiento de formas",
-      "destacada": false
+      "titulo": "Curso Defensa Personal",
+      "imagen": "assets/images/galeria/curso-defensa-personal/curso-defensa-personal-001.webp",
+      "descripcion": "Curso Defensa Personal",
+      "destacada": true
     },
     {
-      "titulo": "Podio — Medallas",
-      "categoria": "competicion",
-      "imagen": "",
-      "descripcion": "Nuestros deportistas en el podio",
-      "destacada": false
+      "titulo": "Entrenamiento",
+      "imagen": "assets/images/galeria/entrenamiento/entrenamiento-001.webp",
+      "descripcion": "Entrenamiento",
+      "destacada": true
     },
     {
-      "titulo": "Combate Sanda",
-      "categoria": "entrenamiento",
-      "imagen": "",
-      "descripcion": "Entrenamiento de combate Sanda",
-      "destacada": false
+      "titulo": "Airen",
+      "imagen": "assets/images/galeria/equipo/equipo-001.webp",
+      "descripcion": "Equipo - Airen",
+      "destacada": true,
+      "subgrupo": "Airen"
     },
     {
-      "titulo": "Exhibición Cultural",
-      "categoria": "eventos",
-      "imagen": "",
-      "descripcion": "Exhibición de artes marciales chinas",
-      "destacada": false
+      "titulo": "Escudos",
+      "imagen": "assets/images/galeria/escudos/escudos-001.webp",
+      "descripcion": "Escudos",
+      "destacada": true
     },
     {
-      "titulo": "Campeonato Regional",
-      "categoria": "competicion",
-      "imagen": "",
-      "descripcion": "Representando a Navarra en el campeonato",
-      "destacada": false
+      "titulo": "I Dia de Wushu Navarra",
+      "imagen": "assets/images/galeria/i-dia-de-wushu-navarra/i-dia-de-wushu-navarra-001.webp",
+      "descripcion": "I Dia de Wushu Navarra",
+      "destacada": true
     },
     {
-      "titulo": "Equipo Kung Fu Ardoi",
-      "categoria": "eventos",
-      "imagen": "",
-      "descripcion": "El equipo del CD Kung Fu Ardoi",
-      "destacada": false
+      "titulo": "II Dia Wushu Navarra",
+      "imagen": "assets/images/galeria/ii-dia-wushu-navarra/ii-dia-wushu-navarra-001.webp",
+      "descripcion": "II Dia Wushu Navarra",
+      "destacada": true
+    },
+    {
+      "titulo": "Navidades 2025",
+      "imagen": "assets/images/galeria/navidades-2025/navidades-2025-001.webp",
+      "descripcion": "Navidades 2025",
+      "destacada": true
     }
   ]
 }

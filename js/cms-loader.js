@@ -10,6 +10,8 @@
 const ICONOS_CAT = {
   competicion:   { icon: 'fa-trophy',     label: 'Competición' },
   entrenamiento: { icon: 'fa-fist-raised', label: 'Entrenamiento' },
+  equipo:         { icon: 'fa-users',       label: 'Equipo' },
+  escudos:        { icon: 'fa-shield-alt',  label: 'Escudos' },
   eventos:       { icon: 'fa-star',        label: 'Eventos' },
   default:       { icon: 'fa-image',       label: 'Galería' }
 };
@@ -43,6 +45,7 @@ function buildGaleriaItem(item, index) {
     ? `<img src="${item.imagen}"
             alt="${item.titulo || ''}"
             loading="lazy"
+            decoding="async"
             style="width:100%;height:100%;object-fit:cover;position:absolute;inset:0;" />`
     : `<div class="galeria-placeholder">
          <i class="fas ${fallback.icon}" aria-hidden="true"></i>
@@ -62,22 +65,78 @@ function buildGaleriaItem(item, index) {
     </div>`;
 }
 
+function buildGaleriaSection(section) {
+  const items = Array.isArray(section.items) ? section.items : [];
+  const cat = section.categoria || 'eventos';
+  const countText = `${items.length} ${items.length === 1 ? 'foto' : 'fotos'}`;
+
+  return `
+    <section class="galeria-section" data-section="${section.slug || cat}">
+      <div class="galeria-section-header">
+        <span class="galeria-section-kicker">${countText}</span>
+        <h3>${section.titulo || 'Galería'}</h3>
+      </div>
+      <div class="galeria-section-grid">
+        ${items.map((item, index) => buildGaleriaItem({
+          ...item,
+          categoria: cat,
+          titulo: item.titulo || section.titulo
+        }, index)).join('')}
+      </div>
+    </section>`;
+}
+
+function buildGaleriaFilters(sections) {
+  const filter = document.querySelector('.galeria-filter');
+  if (!filter || !Array.isArray(sections) || sections.length === 0) return;
+
+  filter.innerHTML = [
+    '<button class="filter-btn active" data-section-filter="todo">Todo</button>',
+    ...sections.map(section =>
+      `<button class="filter-btn" data-section-filter="${section.slug}">${section.titulo}</button>`
+    )
+  ].join('');
+
+  filter.querySelectorAll('[data-section-filter]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const selected = btn.dataset.sectionFilter;
+      filter.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      document.querySelectorAll('.galeria-section').forEach(section => {
+        const visible = selected === 'todo' || section.dataset.section === selected;
+        section.hidden = !visible;
+      });
+    });
+  });
+}
+
 async function loadGaleria() {
   const grid = document.getElementById('galeria-grid');
   if (!grid) return;
 
   const data = await fetchJSON('content/galeria.json');
-  if (!data || !Array.isArray(data.items) || data.items.length === 0) {
+  if (!data) {
     // Conservar los placeholders estáticos si el JSON no carga
     return;
   }
 
-  grid.innerHTML = data.items.map(buildGaleriaItem).join('');
+  if (Array.isArray(data.sections) && data.sections.length > 0) {
+    const sections = data.sections.filter(section => Array.isArray(section.items) && section.items.length > 0);
+    if (sections.length === 0) return;
+
+    grid.classList.add('galeria-grid--sections');
+    grid.innerHTML = sections.map(buildGaleriaSection).join('');
+    buildGaleriaFilters(sections);
+  } else if (Array.isArray(data.items) && data.items.length > 0) {
+    grid.classList.remove('galeria-grid--sections');
+    grid.innerHTML = data.items.map(buildGaleriaItem).join('');
+  } else {
+    return;
+  }
 
   // Re-aplicar listeners de filtro a los nuevos items
-  const filterBtns = document.querySelectorAll('.filter-btn');
   const activeFilter = document.querySelector('.filter-btn.active');
-  if (activeFilter) {
+  if (activeFilter && activeFilter.dataset.filter) {
     const currentFilter = activeFilter.dataset.filter;
     applyGaleriaFilter(currentFilter);
   }
