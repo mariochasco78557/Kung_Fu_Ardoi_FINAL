@@ -31,6 +31,9 @@ async function fetchJSON(path) {
 /* ================================================================
    GALERÍA — Renderizado dinámico
    ================================================================ */
+let galeriaLightboxItems = [];
+let galeriaLightboxIndex = 0;
+
 function buildGaleriaItem(item, index) {
   const cat = item.categoria || 'competicion';
   const fallback = ICONOS_CAT[cat] || ICONOS_CAT.default;
@@ -84,6 +87,130 @@ function buildGaleriaSection(section) {
         }, index)).join('')}
       </div>
     </section>`;
+}
+
+function getGaleriaVisibleItems() {
+  return Array.from(document.querySelectorAll('#galeria-grid .galeria-item img'))
+    .filter(img => {
+      const section = img.closest('.galeria-section');
+      return !section || !section.hidden;
+    })
+    .map(img => ({
+      src: img.getAttribute('src'),
+      alt: img.getAttribute('alt') || 'Foto del club',
+      title: img.closest('.galeria-item')?.querySelector('.galeria-item-label')?.textContent?.trim() || ''
+    }));
+}
+
+function ensureGaleriaLightbox() {
+  let lightbox = document.getElementById('galeria-lightbox');
+  if (lightbox) return lightbox;
+
+  lightbox = document.createElement('div');
+  lightbox.id = 'galeria-lightbox';
+  lightbox.className = 'galeria-lightbox';
+  lightbox.setAttribute('role', 'dialog');
+  lightbox.setAttribute('aria-modal', 'true');
+  lightbox.setAttribute('aria-label', 'Foto ampliada de la galería');
+  lightbox.innerHTML = `
+    <button class="galeria-lightbox-close" type="button" aria-label="Cerrar galería">
+      <i class="fas fa-times" aria-hidden="true"></i>
+    </button>
+    <button class="galeria-lightbox-nav galeria-lightbox-prev" type="button" aria-label="Foto anterior">
+      <i class="fas fa-chevron-left" aria-hidden="true"></i>
+    </button>
+    <figure class="galeria-lightbox-figure">
+      <img class="galeria-lightbox-img" alt="" />
+      <figcaption class="galeria-lightbox-caption"></figcaption>
+    </figure>
+    <button class="galeria-lightbox-nav galeria-lightbox-next" type="button" aria-label="Foto siguiente">
+      <i class="fas fa-chevron-right" aria-hidden="true"></i>
+    </button>
+    <div class="galeria-lightbox-count" aria-live="polite"></div>`;
+
+  document.body.appendChild(lightbox);
+  lightbox.querySelector('.galeria-lightbox-close').addEventListener('click', closeGaleriaLightbox);
+  lightbox.querySelector('.galeria-lightbox-prev').addEventListener('click', () => moveGaleriaLightbox(-1));
+  lightbox.querySelector('.galeria-lightbox-next').addEventListener('click', () => moveGaleriaLightbox(1));
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox) closeGaleriaLightbox();
+  });
+
+  let touchStartX = 0;
+  lightbox.addEventListener('touchstart', (e) => {
+    touchStartX = e.changedTouches[0].clientX;
+  }, { passive: true });
+  lightbox.addEventListener('touchend', (e) => {
+    const delta = e.changedTouches[0].clientX - touchStartX;
+    if (Math.abs(delta) > 50) moveGaleriaLightbox(delta > 0 ? -1 : 1);
+  }, { passive: true });
+
+  document.addEventListener('keydown', (e) => {
+    if (!lightbox.classList.contains('open')) return;
+    if (e.key === 'Escape') closeGaleriaLightbox();
+    if (e.key === 'ArrowLeft') moveGaleriaLightbox(-1);
+    if (e.key === 'ArrowRight') moveGaleriaLightbox(1);
+  });
+
+  return lightbox;
+}
+
+function renderGaleriaLightbox() {
+  const lightbox = ensureGaleriaLightbox();
+  const current = galeriaLightboxItems[galeriaLightboxIndex];
+  if (!current) return;
+
+  const img = lightbox.querySelector('.galeria-lightbox-img');
+  img.src = current.src;
+  img.alt = current.alt;
+  lightbox.querySelector('.galeria-lightbox-caption').textContent = current.title || current.alt;
+  lightbox.querySelector('.galeria-lightbox-count').textContent =
+    `${galeriaLightboxIndex + 1} / ${galeriaLightboxItems.length}`;
+}
+
+function openGaleriaLightbox(index) {
+  galeriaLightboxItems = getGaleriaVisibleItems();
+  if (galeriaLightboxItems.length === 0) return;
+  galeriaLightboxIndex = Math.max(0, Math.min(index, galeriaLightboxItems.length - 1));
+  renderGaleriaLightbox();
+  const lightbox = ensureGaleriaLightbox();
+  lightbox.classList.add('open');
+  document.body.style.overflow = 'hidden';
+  lightbox.querySelector('.galeria-lightbox-close').focus();
+}
+
+function closeGaleriaLightbox() {
+  const lightbox = document.getElementById('galeria-lightbox');
+  if (!lightbox) return;
+  lightbox.classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function moveGaleriaLightbox(direction) {
+  if (galeriaLightboxItems.length === 0) return;
+  galeriaLightboxIndex =
+    (galeriaLightboxIndex + direction + galeriaLightboxItems.length) % galeriaLightboxItems.length;
+  renderGaleriaLightbox();
+}
+
+function initGaleriaLightbox(grid) {
+  ensureGaleriaLightbox();
+  grid.querySelectorAll('.galeria-item').forEach(el => {
+    const img = el.querySelector('img');
+    if (!img) return;
+    const openCurrent = () => {
+      const visibleItems = getGaleriaVisibleItems();
+      const index = visibleItems.findIndex(item => item.src === img.getAttribute('src'));
+      openGaleriaLightbox(index >= 0 ? index : 0);
+    };
+    el.addEventListener('click', openCurrent);
+    el.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        openCurrent();
+      }
+    });
+  });
 }
 
 function buildGaleriaFilters(sections) {
@@ -148,6 +275,7 @@ async function loadGaleria() {
       setTimeout(() => { el.style.outline = ''; }, 600);
     });
   });
+  initGaleriaLightbox(grid);
 }
 
 function applyGaleriaFilter(filter) {

@@ -1511,6 +1511,100 @@ p {
   color: var(--white);
 }
 
+.galeria-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: clamp(18px, 4vw, 48px);
+  background: rgba(0,0,0,0.94);
+  backdrop-filter: blur(12px);
+}
+
+.galeria-lightbox.open {
+  display: flex;
+}
+
+.galeria-lightbox-figure {
+  max-width: min(1120px, 88vw);
+  max-height: 88vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+}
+
+.galeria-lightbox-img {
+  max-width: 100%;
+  max-height: calc(88vh - 46px);
+  object-fit: contain;
+  box-shadow: 0 28px 80px rgba(0,0,0,0.7);
+}
+
+.galeria-lightbox-caption,
+.galeria-lightbox-count {
+  font-family: var(--font-accent);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--silver);
+  text-align: center;
+}
+
+.galeria-lightbox-count {
+  position: absolute;
+  left: clamp(18px, 4vw, 48px);
+  bottom: clamp(18px, 4vw, 34px);
+  color: var(--gold);
+}
+
+.galeria-lightbox-close,
+.galeria-lightbox-nav {
+  border: 1px solid rgba(201,168,76,0.45);
+  background: rgba(8,8,8,0.72);
+  color: var(--white);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.galeria-lightbox-close:hover,
+.galeria-lightbox-nav:hover,
+.galeria-lightbox-close:focus-visible,
+.galeria-lightbox-nav:focus-visible {
+  border-color: var(--gold);
+  color: var(--gold);
+  outline: none;
+}
+
+.galeria-lightbox-close {
+  position: absolute;
+  top: clamp(18px, 4vw, 34px);
+  right: clamp(18px, 4vw, 44px);
+  width: 46px;
+  height: 46px;
+  font-size: 1rem;
+}
+
+.galeria-lightbox-nav {
+  position: absolute;
+  top: 50%;
+  width: 54px;
+  height: 72px;
+  transform: translateY(-50%);
+  font-size: 1.1rem;
+}
+
+.galeria-lightbox-prev {
+  left: clamp(14px, 3vw, 36px);
+}
+
+.galeria-lightbox-next {
+  right: clamp(14px, 3vw, 36px);
+}
+
 /* ── SECCIÓN: FILOSOFÍA ── */
 #filosofia {
   padding: 160px 0;
@@ -2178,6 +2272,33 @@ p {
   .galeria-section-header { align-items: flex-start; flex-direction: column-reverse; gap: 8px; }
   .hero-actions { flex-direction: column; align-items: flex-start; }
   .contacto-form-wrap { padding: 28px 20px; }
+  .galeria-lightbox {
+    padding: 64px 12px 54px;
+  }
+  .galeria-lightbox-figure {
+    max-width: 100%;
+    max-height: 78vh;
+  }
+  .galeria-lightbox-img {
+    max-height: 72vh;
+  }
+  .galeria-lightbox-nav {
+    top: auto;
+    bottom: 12px;
+    width: 48px;
+    height: 44px;
+    transform: none;
+  }
+  .galeria-lightbox-prev {
+    left: calc(50% - 58px);
+  }
+  .galeria-lightbox-next {
+    right: calc(50% - 58px);
+  }
+  .galeria-lightbox-count {
+    left: 14px;
+    bottom: 24px;
+  }
 }
 
 @media (max-height: 620px) {
