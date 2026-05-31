@@ -228,20 +228,10 @@ p {
   width: 44px;
   height: 44px;
   border: 1.5px solid var(--gold);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-head);
-  font-size: 1.1rem;
-  color: var(--gold);
-  position: relative;
-}
-
-.nav-logo-icon::before {
-  content: '';
-  position: absolute;
-  inset: 3px;
-  border: 1px solid rgba(201,168,76,0.3);
+  display: block;
+  object-fit: contain;
+  object-position: center;
+  background: var(--black);
 }
 
 .nav-logo-text {
@@ -340,18 +330,24 @@ p {
   z-index: 999;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  gap: 40px;
+  justify-content: flex-start;
+  gap: 22px;
+  padding: 92px 24px 44px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
 }
 
 .nav-mobile.open { display: flex; }
 
 .nav-mobile a {
   font-family: var(--font-head);
-  font-size: 1.8rem;
+  font-size: clamp(1.05rem, 5.4vw, 1.45rem);
   color: var(--white);
   text-decoration: none;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
+  line-height: 1.25;
+  text-align: center;
   transition: color 0.3s ease;
 }
 .nav-mobile a:hover { color: var(--gold); }
@@ -1983,12 +1979,10 @@ p {
   width: 48px;
   height: 48px;
   border: 1.5px solid var(--gold);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-head);
-  font-size: 1.1rem;
-  color: var(--gold);
+  display: block;
+  object-fit: contain;
+  object-position: center;
+  background: var(--black);
 }
 
 .footer-brand p {
@@ -2112,6 +2106,17 @@ p {
   .galeria-filter { flex-wrap: wrap; }
   .hero-actions { flex-direction: column; align-items: flex-start; }
   .contacto-form-wrap { padding: 28px 20px; }
+}
+
+@media (max-height: 620px) {
+  .nav-mobile {
+    gap: 16px;
+    padding-top: 76px;
+    padding-bottom: 28px;
+  }
+  .nav-mobile a {
+    font-size: clamp(0.95rem, 4.5vh, 1.2rem);
+  }
 }
 
 /* ── LOADER ── */
@@ -2331,4 +2336,3 @@ p {
 @media (max-width: 900px) {
   .galeria-item--featured { grid-column: span 6; grid-row: span 2; }
 }
-

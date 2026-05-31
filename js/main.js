@@ -67,6 +67,7 @@ window.addEventListener('scroll', () => {
 if (hamburger) {
   hamburger.addEventListener('click', () => {
     mobileNav.classList.add('open');
+    hamburger.setAttribute('aria-expanded', 'true');
     document.body.style.overflow = 'hidden';
   });
 }
@@ -74,6 +75,7 @@ if (hamburger) {
 if (mobileNavClose) {
   mobileNavClose.addEventListener('click', () => {
     mobileNav.classList.remove('open');
+    hamburger?.setAttribute('aria-expanded', 'false');
     document.body.style.overflow = '';
   });
 }
@@ -82,8 +84,17 @@ if (mobileNavClose) {
 document.querySelectorAll('.nav-mobile a').forEach(link => {
   link.addEventListener('click', () => {
     mobileNav.classList.remove('open');
+    hamburger?.setAttribute('aria-expanded', 'false');
     document.body.style.overflow = '';
   });
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && mobileNav?.classList.contains('open')) {
+    mobileNav.classList.remove('open');
+    hamburger?.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+  }
 });
 
 /* ── SCROLL REVEAL ── */
