@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "titulo": "Jornada de Puertas Abiertas",
+      "fecha": "15/06/2025",
+      "tipo": "puertas-abiertas",
+      "descripcion": "Ven a conocer el club, prueba una clase gratuita y descubre el Wushu. Abierto a todos sin importar la edad.",
+      "activo": true
+    },
+    {
+      "titulo": "Sábados de Perfeccionamiento Técnico",
+      "fecha": "Todos los sábados",
+      "tipo": "curso",
+      "descripcion": "Sesiones especiales de perfeccionamiento para deportistas avanzados. Trabajo de formas y combate.",
+      "activo": true
+    },
+    {
+      "titulo": "VIII Torneo Wushu Ardoi",
+      "fecha": "2025",
+      "tipo": "torneo",
+      "descripcion": "La cita anual del Wushu navarro. Múltiples modalidades, categorías y clubes participantes.",
+      "activo": true
+    }
+  ]
+}

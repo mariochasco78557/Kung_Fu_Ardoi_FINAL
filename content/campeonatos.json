@@ -1,0 +1,23 @@
+{
+  "torneo_principal": {
+    "nombre": "VII Torneo Wushu Ardoi",
+    "anio": 2024,
+    "descripcion": "Una jornada histórica para el Wushu navarro. El CD Kung Fu Ardoi brilló con fuerza sobre el tatami, demostrando meses de disciplina, esfuerzo y pasión convertidos en resultados extraordinarios.",
+    "oro": 13,
+    "plata": 2,
+    "bronce": 8,
+    "logro_extra": "Clasificados para el Campeonato de España 2026 · Wushu Oficial"
+  },
+  "historial": [
+    {
+      "nombre": "VII Torneo Wushu Ardoi",
+      "anio": 2024,
+      "resumen": "13 oro, 2 plata, 8 bronce"
+    },
+    {
+      "nombre": "VI Torneo Wushu Ardoi",
+      "anio": 2023,
+      "resumen": "Participación destacada"
+    }
+  ]
+}

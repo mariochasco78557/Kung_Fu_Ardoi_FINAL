@@ -1,0 +1,28 @@
+# ================================================================
+# NETLIFY — CONFIGURACIÓN KUNG FU ARDOI
+# ================================================================
+
+[build]
+  publish = "."
+
+# FIX: removed @netlify/plugin-lighthouse — no package.json in this project,
+# Netlify was failing to install it and breaking every deploy.
+
+# Redirect bare /admin → /admin/index.html
+[[redirects]]
+  from = "/admin"
+  to   = "/admin/index.html"
+  status = 200
+
+# Security headers for public site
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options  = "nosniff"
+    Referrer-Policy         = "strict-origin-when-cross-origin"
+
+# Keep admin panel out of search engines
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"

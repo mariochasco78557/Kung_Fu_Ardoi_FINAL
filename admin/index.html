@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Panel de Administración — Kung Fu Ardoi</title>
+
+  <!--
+    FIX: Netlify Identity Widget MUST load here, in <head>, BEFORE Decap CMS.
+    Without this, window.netlifyIdentity is undefined when Decap CMS initialises
+    with git-gateway → blank white page after login.
+  -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+<body>
+  <!--
+    Decap CMS goes in <body> so the DOM is ready when it mounts.
+    It reads /admin/config.yml automatically.
+    Pinned to 3.3.3 to avoid unpkg CDN resolution issues with ^semver ranges.
+  -->
+  <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
+</body>
+</html>

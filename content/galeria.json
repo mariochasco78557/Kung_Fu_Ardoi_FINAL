@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "titulo": "VII Torneo Wushu Ardoi",
+      "categoria": "competicion",
+      "imagen": "",
+      "descripcion": "VII Torneo Wushu Ardoi — Zizur Mayor",
+      "destacada": true
+    },
+    {
+      "titulo": "Entrenamiento Taolu",
+      "categoria": "entrenamiento",
+      "imagen": "",
+      "descripcion": "Sesión de entrenamiento de formas",
+      "destacada": false
+    },
+    {
+      "titulo": "Podio — Medallas",
+      "categoria": "competicion",
+      "imagen": "",
+      "descripcion": "Nuestros deportistas en el podio",
+      "destacada": false
+    },
+    {
+      "titulo": "Combate Sanda",
+      "categoria": "entrenamiento",
+      "imagen": "",
+      "descripcion": "Entrenamiento de combate Sanda",
+      "destacada": false
+    },
+    {
+      "titulo": "Exhibición Cultural",
+      "categoria": "eventos",
+      "imagen": "",
+      "descripcion": "Exhibición de artes marciales chinas",
+      "destacada": false
+    },
+    {
+      "titulo": "Campeonato Regional",
+      "categoria": "competicion",
+      "imagen": "",
+      "descripcion": "Representando a Navarra en el campeonato",
+      "destacada": false
+    },
+    {
+      "titulo": "Equipo Kung Fu Ardoi",
+      "categoria": "eventos",
+      "imagen": "",
+      "descripcion": "El equipo del CD Kung Fu Ardoi",
+      "destacada": false
+    }
+  ]
+}
