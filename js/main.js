@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
   setTimeout(() => {
     const loader = document.getElementById('page-loader');
     if (loader) loader.classList.add('hidden');
-  }, 900);
+  }, 450);
 });
 
 /* ── CURSOR PERSONALIZADO ── */
