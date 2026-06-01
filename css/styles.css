@@ -2316,14 +2316,29 @@ p {
 #page-loader {
   position: fixed;
   inset: 0;
-  background: var(--black);
   z-index: 9999;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  gap: 24px;
-  transition: opacity 0.8s ease, visibility 0.8s ease;
+  justify-content: flex-end;
+  padding: min(7vh, 72px) clamp(24px, 6vw, 96px);
+  background:
+    linear-gradient(180deg, rgba(0,0,0,0.12) 0%, rgba(0,0,0,0.2) 46%, rgba(0,0,0,0.72) 100%),
+    url('../assets/images/loading-hung-gar.png') center center / cover no-repeat,
+    var(--black);
+  overflow: hidden;
+  transition: opacity 0.95s ease, visibility 0.95s ease;
+}
+
+#page-loader::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 50% 84%, rgba(201,168,76,0.12), transparent 24%),
+    radial-gradient(circle at 50% 88%, rgba(192,40,43,0.18), transparent 12%);
+  opacity: 0.9;
+  pointer-events: none;
 }
 
 #page-loader.hidden {
@@ -2331,30 +2346,109 @@ p {
   visibility: hidden;
 }
 
-.loader-logo {
+.loader-content {
+  position: relative;
+  z-index: 1;
+  width: min(48vw, 680px);
+  min-width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  animation: loaderBreathe 2.8s ease-in-out infinite;
+}
+
+.loader-status {
   font-family: var(--font-head);
-  font-size: 1.2rem;
-  letter-spacing: 0.3em;
-  color: var(--gold);
+  font-size: clamp(0.9rem, 1.45vw, 1.25rem);
+  letter-spacing: 0.42em;
+  color: var(--white);
   text-transform: uppercase;
+  text-shadow: 0 0 16px rgba(255,255,255,0.2), 0 0 26px rgba(201,168,76,0.18);
+  animation: loaderPulse 1.9s ease-in-out infinite;
+}
+
+.loader-dots::after {
+  content: '';
+  display: inline-block;
+  min-width: 3.6em;
+  text-align: left;
+  color: var(--gold);
+  animation: loaderDots 1.35s steps(4, end) infinite;
 }
 
 .loader-bar-wrap {
-  width: 200px;
-  height: 1px;
-  background: rgba(255,255,255,0.1);
+  position: relative;
+  width: 100%;
+  height: 5px;
   overflow: hidden;
+  filter: drop-shadow(0 0 14px rgba(201,168,76,0.28));
+}
+
+.loader-bar-wrap::before {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.65), rgba(201,168,76,0.88), rgba(255,255,255,0.65), transparent);
+  opacity: 0.52;
 }
 
 .loader-bar {
+  position: absolute;
+  top: 0;
+  left: -18%;
   height: 100%;
-  background: var(--gold);
-  animation: loaderProgress 1.6s ease forwards;
+  width: 38%;
+  background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.88) 38%, var(--gold) 58%, transparent 100%);
+  clip-path: polygon(0 46%, 8% 28%, 22% 46%, 40% 30%, 64% 48%, 82% 34%, 100% 52%, 100% 70%, 82% 58%, 63% 76%, 42% 58%, 24% 74%, 9% 56%, 0 70%);
+  animation: loaderBrush 2.05s ease-in-out infinite;
 }
 
-@keyframes loaderProgress {
-  0% { width: 0%; }
-  100% { width: 100%; }
+.loader-glow {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--red-lt);
+  box-shadow: 0 0 12px rgba(255,255,255,0.75), 0 0 24px rgba(192,40,43,0.95), 0 0 44px rgba(201,168,76,0.55);
+  transform: translate(-50%, -50%);
+  animation: loaderGlowTravel 2.05s ease-in-out infinite;
+}
+
+@keyframes loaderDots {
+  0%   { content: ''; }
+  25%  { content: ' ·'; }
+  50%  { content: ' ··'; }
+  75%, 100% { content: ' ···'; }
+}
+
+@keyframes loaderPulse {
+  0%, 100% { opacity: 0.72; transform: translateY(0); }
+  50%      { opacity: 1; transform: translateY(-1px); }
+}
+
+@keyframes loaderBreathe {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50%      { transform: translateY(-2px) scale(1.01); }
+}
+
+@keyframes loaderBrush {
+  0%   { transform: translateX(-15%); opacity: 0; }
+  16%  { opacity: 1; }
+  82%  { opacity: 1; }
+  100% { transform: translateX(285%); opacity: 0; }
+}
+
+@keyframes loaderGlowTravel {
+  0%   { left: 0%; opacity: 0; }
+  15%  { opacity: 1; }
+  82%  { opacity: 1; }
+  100% { left: 100%; opacity: 0; }
 }
 
 /* ── CURSOR PERSONALIZADO ── */
