@@ -2349,13 +2349,25 @@ p {
 .loader-mark {
   position: relative;
   z-index: 1;
-  margin-bottom: 22px;
+  margin-bottom: 10px;
   font-family: var(--font-head);
-  font-size: clamp(3.2rem, 9vw, 6.5rem);
+  font-size: clamp(2.5rem, 8vw, 5.4rem);
   line-height: 1;
+  letter-spacing: 0.08em;
   color: rgba(201,168,76,0.18);
   text-shadow: 0 0 28px rgba(201,168,76,0.08);
   animation: loaderMark 2.8s ease-in-out infinite;
+}
+
+.loader-subtitle {
+  position: relative;
+  z-index: 1;
+  margin-bottom: 24px;
+  font-family: var(--font-head);
+  font-size: clamp(0.78rem, 1.6vw, 1.05rem);
+  letter-spacing: 0.18em;
+  color: rgba(245,240,232,0.78);
+  text-transform: uppercase;
 }
 
 .loader-content {
