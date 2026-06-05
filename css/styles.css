@@ -414,6 +414,17 @@ p {
   z-index: 0;
 }
 
+.hero-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url('../assets/images/hero-hung-gar-bg.jpg');
+  background-size: cover;
+  background-position: center right;
+  filter: saturate(0.94) contrast(1.04);
+  transform: scale(1.01);
+}
+
 /* Geometric pattern de fondo */
 .hero-pattern {
   position: absolute;
@@ -432,6 +443,8 @@ p {
       rgba(201,168,76,0.04) 80px
     );
   animation: patternShift 20s linear infinite;
+  opacity: 0.18;
+  mix-blend-mode: soft-light;
 }
 
 @keyframes patternShift {
@@ -443,21 +456,22 @@ p {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse at 70% 50%, rgba(155,27,27,0.12) 0%, transparent 60%),
-    radial-gradient(ellipse at 20% 80%, rgba(201,168,76,0.06) 0%, transparent 50%),
-    linear-gradient(135deg, rgba(8,8,8,0.95) 0%, rgba(14,14,14,0.7) 100%);
+    radial-gradient(ellipse at 78% 48%, rgba(201,168,76,0.08) 0%, transparent 38%),
+    radial-gradient(ellipse at 18% 76%, rgba(155,27,27,0.22) 0%, transparent 44%),
+    linear-gradient(90deg, rgba(3,3,3,0.98) 0%, rgba(5,5,5,0.92) 28%, rgba(8,8,8,0.58) 52%, rgba(8,8,8,0.18) 78%, rgba(8,8,8,0.38) 100%),
+    linear-gradient(180deg, rgba(0,0,0,0.66) 0%, rgba(0,0,0,0.14) 34%, rgba(0,0,0,0.72) 100%);
 }
 
 /* Kanji decorativo */
 .hero-kanji {
   position: absolute;
-  right: 5%;
+  right: 40%;
   top: 50%;
   transform: translateY(-50%);
-  font-size: clamp(180px, 25vw, 380px);
+  font-size: clamp(160px, 20vw, 320px);
   line-height: 1;
   color: transparent;
-  -webkit-text-stroke: 1px rgba(201,168,76,0.06);
+  -webkit-text-stroke: 1px rgba(201,168,76,0.05);
   font-family: serif;
   user-select: none;
   pointer-events: none;
@@ -472,6 +486,7 @@ p {
 .hero-content {
   position: relative;
   z-index: 10;
+  width: 100%;
   max-width: var(--container);
   margin: 0 auto;
   padding: 0 clamp(20px, 5vw, 80px);
@@ -596,7 +611,7 @@ p {
   bottom: 40px;
   left: 50%;
   transform: translateX(-50%);
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   gap: 10px;
@@ -733,34 +748,55 @@ p {
   aspect-ratio: 3/4;
   max-height: 560px;
   background: var(--charcoal);
+  border: 1px solid rgba(201,168,76,0.16);
   overflow: hidden;
 }
 
 .porque-frame-inner {
   position: absolute;
   inset: 0;
-  background:
-    radial-gradient(ellipse at 40% 40%, rgba(155,27,27,0.25) 0%, transparent 60%),
-    linear-gradient(135deg, var(--charcoal) 0%, var(--dark) 100%);
+  background: var(--charcoal);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+.porque-frame-inner::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 50% 36%, rgba(201,168,76,0.1) 0%, transparent 42%),
+    linear-gradient(180deg, rgba(0,0,0,0.08) 0%, rgba(0,0,0,0.58) 100%);
+  pointer-events: none;
+}
+
+.porque-frame-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  filter: contrast(1.04) saturate(0.95);
+}
+
 .porque-symbol {
-  font-size: 12rem;
-  color: transparent;
-  -webkit-text-stroke: 1px rgba(201,168,76,0.2);
+  position: absolute;
+  top: 12%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  font-size: clamp(3.9rem, 7vw, 6.3rem);
+  line-height: 1.06;
+  letter-spacing: 0.08em;
+  color: rgba(245,240,232,0.9);
+  text-shadow: 0 0 18px rgba(0,0,0,0.85), 0 0 34px rgba(201,168,76,0.22);
   font-family: serif;
 }
 
 .porque-frame-border {
-  position: absolute;
-  top: 16px; left: 16px;
-  right: -16px; bottom: -16px;
-  border: 1px solid rgba(201,168,76,0.2);
-  pointer-events: none;
-  z-index: -1;
+  display: none;
 }
 
 .porque-quote {
@@ -949,6 +985,7 @@ p {
   aspect-ratio: 3/4;
   max-height: 580px;
   background: var(--charcoal-mid);
+  border: 1px solid rgba(201,168,76,0.18);
   position: relative;
   overflow: hidden;
 }
@@ -964,6 +1001,14 @@ p {
   justify-content: center;
 }
 
+.shifu-portrait-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 16%;
+  filter: contrast(1.03) saturate(0.96);
+}
+
 .shifu-silhouette {
   opacity: 0.15;
   font-size: 14rem;
@@ -973,8 +1018,9 @@ p {
 .shifu-portrait-label {
   position: absolute;
   bottom: 0; left: 0; right: 0;
-  background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, transparent 100%);
-  padding: 40px 28px 24px;
+  background:
+    linear-gradient(to top, rgba(0,0,0,0.94) 0%, rgba(0,0,0,0.72) 48%, transparent 100%);
+  padding: 58px 28px 24px;
 }
 
 .shifu-portrait-name {
@@ -993,11 +1039,7 @@ p {
 }
 
 .shifu-portrait-border {
-  position: absolute;
-  top: -16px; left: -16px;
-  right: 16px; bottom: 16px;
-  border: 1px solid rgba(201,168,76,0.15);
-  pointer-events: none;
+  display: none;
 }
 
 .shifu-content {}
@@ -2756,6 +2798,19 @@ p {
 
 /* Hero: stats visibles en tablets */
 @media (max-width: 900px) {
+  .hero-bg::before {
+    background-position: 68% center;
+  }
+  .hero-overlay {
+    background:
+      radial-gradient(ellipse at 72% 42%, rgba(201,168,76,0.08) 0%, transparent 34%),
+      linear-gradient(90deg, rgba(3,3,3,0.97) 0%, rgba(4,4,4,0.88) 40%, rgba(7,7,7,0.56) 72%, rgba(7,7,7,0.5) 100%),
+      linear-gradient(180deg, rgba(0,0,0,0.74) 0%, rgba(0,0,0,0.32) 42%, rgba(0,0,0,0.78) 100%);
+  }
+  .hero-kanji {
+    right: 10%;
+    opacity: 0.55;
+  }
   .hero-stats {
     display: flex;
     flex-direction: row;
@@ -2772,6 +2827,23 @@ p {
 
 /* Hero: texto más compacto en móvil */
 @media (max-width: 480px) {
+  #hero {
+    min-height: 100svh;
+  }
+  .hero-bg::before {
+    background-position: 72% center;
+    transform: scale(1.04);
+  }
+  .hero-overlay {
+    background:
+      linear-gradient(90deg, rgba(2,2,2,0.98) 0%, rgba(3,3,3,0.88) 58%, rgba(5,5,5,0.56) 100%),
+      linear-gradient(180deg, rgba(0,0,0,0.82) 0%, rgba(0,0,0,0.26) 44%, rgba(0,0,0,0.84) 100%);
+  }
+  .hero-kanji {
+    right: -18%;
+    font-size: clamp(130px, 42vw, 210px);
+    opacity: 0.36;
+  }
   .hero-title-line2,
   .hero-title-line3 { font-size: clamp(2.6rem, 14vw, 4rem); }
   .hero-eyebrow-text { font-size: 0.58rem; letter-spacing: 0.2em; }

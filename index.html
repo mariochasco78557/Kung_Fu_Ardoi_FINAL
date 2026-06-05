@@ -28,7 +28,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 
   <!-- Estilos -->
-  <link rel="stylesheet" href="css/styles.css?v=horarios-menu" />
+  <link rel="preload" as="image" href="assets/images/hero-hung-gar-bg.jpg" />
+  <link rel="stylesheet" href="css/styles.css?v=hero-cover" />
 
   <!-- Netlify Identity (para CMS admin flotante) -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
@@ -219,7 +220,14 @@
       <div class="porque-visual reveal-left">
         <div class="porque-frame">
           <div class="porque-frame-inner">
-            <div class="porque-symbol" aria-hidden="true">功</div>
+            <img
+              class="porque-frame-img"
+              src="assets/images/porque-hung-gar.jpg"
+              alt=""
+              aria-hidden="true"
+              loading="lazy"
+            />
+            <div class="porque-symbol" aria-hidden="true">洪家拳</div>
           </div>
         </div>
         <div class="porque-frame-border" aria-hidden="true"></div>
@@ -349,11 +357,13 @@
         <div class="shifu-portrait-border" aria-hidden="true"></div>
         <div class="shifu-portrait-frame">
           <div class="shifu-portrait-frame-inner">
-            <div class="shifu-silhouette" aria-hidden="true">
-              <i class="fas fa-user-circle"></i>
-            </div>
+            <img
+              class="shifu-portrait-img"
+              src="assets/images/shifu-juan-cruz.jpg"
+              alt="Juan Cruz Izura, maestro Shifu de C.D. Kung Fu Ardoi"
+              loading="lazy"
+            />
           </div>
-          <!-- Espacio para foto real — reemplazar con <img src="assets/images/shifu.jpg" alt="Juan Cruz Izura"> -->
           <div class="shifu-portrait-label">
             <span class="shifu-portrait-name">Juan Cruz Izura</span>
             <span class="shifu-portrait-title">Maestro · Shifu · 5º DAN Wushu</span>
